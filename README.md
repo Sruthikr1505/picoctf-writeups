@@ -45,6 +45,9 @@ Now that I’ve gotten my feet wet, I’m moving on to more advanced challenges 
 
 <img width="1440" height="820" alt="P3" src="https://github.com/user-attachments/assets/be94b893-b690-41e5-9db5-d5ebaa383399" />
 
+<img width="1411" height="812" alt="P5" src="https://github.com/user-attachments/assets/1ff2852d-c330-4357-b180-e472cb7f6f0f" />
+
+
 ---
 
 If you’re starting out on picoCTF or another CTF platform, give “Obedient Cat” a try. You got this! 🐾
