@@ -22,7 +22,6 @@ Welcome to my Capture The Flag (CTF) journey! Here you'll find my solutions, ref
 ### What I Learned
 
 - Basic file handling
-- Using simple shell commands
 - Navigating CTF platforms
 
 ### Reflections
