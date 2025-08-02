@@ -43,7 +43,7 @@ Now that I’ve gotten my feet wet, I’m moving on to more advanced challenges 
 
 ## Screenshot
 
-![Screenshot of solving Obedient Cat](obedientcat.jpg)
+<img width="1440" height="820" alt="P3" src="https://github.com/user-attachments/assets/be94b893-b690-41e5-9db5-d5ebaa383399" />
 
 ---
 
